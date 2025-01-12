@@ -11,7 +11,7 @@ import SwiftUI
 struct CarbonTrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView() // Replace with your starting view
         }
     }
 }
